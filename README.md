@@ -1,3 +1,4 @@
+# JS Portfolio Project
 This project is a JavaScript project that shows the portfolio of a job seeker. 
 The home page shows a username field and a password field.
 There is also a 'Click Me' button that attracts attention by increasing and decreasing in size at irregular intervals.
