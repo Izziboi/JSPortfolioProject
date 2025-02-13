@@ -1,0 +1,78 @@
+{
+	"personalData": [
+	{
+		"heading": "Vorstellung",
+		"content": "Israel Etu<br> Sirnauer Straße 6, 73728 Esslingen, Deutschland<br> israeletu@gmail.com; +4917626331093; <a href='https://github.com/Izziboi' target='_blank'>GitHub Link</a> <br><br> Ich bin ein Elektroingenieur mit Masterabschluss in dem Bereich."
+	},
+	
+	{
+		"heading": "Lebenslauf",
+		"content": [
+			{
+				"subheading": "Besuchte Schulen, Zeitraum und erwobenen Abschlusse",
+				"subcontent": [
+				{
+					"place": "Anglia Ruskin University Cambridge, UK",
+					"duration": "2016 - 2017",
+					"level": "Master of Science"
+				},
+				
+				{
+					"place": "Federal University of Technology Owerri, Nigeria",
+					"duration": "2000 - 2005",
+					"level": "Bachelor"
+				}
+				]
+			},
+			
+			{
+				"subheading": "Berufserfahrungen",
+				"subcontent": [
+				{
+					"place": "Adlinas GmbH Deutschland",
+					"duration": "2022 - 2024",
+					"level": "Softwareentwickler"
+				},
+				
+				{
+					"place": "Technische Universität Kaiserslautern Deutschland",
+					"duration": "2019 - 2022",
+					"level": "Forschungsassitent"
+				},
+				
+				{
+					"place": "Akanu Ibiam Federal Polytechnic Afikpo, Nigeria",
+					"duration": "2005 - 2019",
+					"level": "Technologe"
+				}
+				]
+			}
+		]
+	},
+	
+	{
+		"heading": "Fertigkeiten",
+		"content": ["../../images/fertigkeiten.png"]
+	},
+	
+	{
+		"heading": "Interessen",
+		"content": ["../../images/interessen.png"]
+	},
+	
+	{
+		"heading": "Referenzen",
+		"content": {
+			"names": "John Smith",
+			"position": "Senior Software Engineer, XYZ Company",
+			"email": "john.smith@xyzcompany.com",
+			"phone": "+123 456 7890",
+			"relationship": "Bisheriger Manager bei XYZ Company"
+		}
+		
+	}
+	
+	]
+}
+
+

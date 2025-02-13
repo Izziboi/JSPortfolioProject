@@ -1,0 +1,118 @@
+body {
+  background: radial-gradient(circle, aqua, rgb(190, 161, 252));
+}
+
+#usernameInput,
+#passwordInput {
+  background-color: gold;
+  border-width: 2px;
+  border-color: black;
+  border-radius: 5px;
+  height: 30px;
+  width: 200px;
+  display: block;
+  margin: 10px 0px 5px 5px;
+  padding: 2px 10px 2px 10px;
+}
+
+.container {
+  position: relative;
+  display: block;
+  padding: 5px;
+  margin: 5px;
+  background: radial-gradient(circle, aqua, rgb(190, 161, 252));
+  /*background: #eee;'/
+  /*border: 1px solid #aaa;*/
+  border-radius: 5px;
+}
+
+.newContainer {
+  font-weight: bold;
+}
+
+p {
+  font-weight: normal;
+}
+
+.slideshow-container {
+  position: relative;
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+  /*overflow: hidden;*/
+}
+
+.slideshow-image {
+  width: 100%;
+  height: auto;
+}
+
+.btnLoad {
+  margin-left: 5px;
+  width: 100px;
+  height: 30px;
+  padding: 5px;
+  font-size: 14px;
+  background: linear-gradient(to right, red, purple, blue);
+  color: white;
+  font-weight: normal;
+  border: 0px;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+.btnEnlarge {
+  margin-left: 5px;
+  width: 150px;
+  height: 80px;
+  padding: 5px;
+  font-size: large;
+  background: linear-gradient(to right, red, purple, blue);
+  color: white;
+  font-weight: bold;
+  border: 0px;
+  border-radius: 25px;
+}
+
+.navButton {
+  border: 0px;
+  background-color: goldenrod;
+  width: 150px;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
+
+nav {
+  position: fixed;
+  left: 10px;
+  bottom: 10px;
+  background-color: transparent;
+  z-index: 1;
+}
+
+.btnDiv {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 15px;
+}
+
+.btnDiv:hover .navButton {
+  width: 150px;
+  height: 60px;
+  font-size: 18px;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+a {
+  margin: 5px;
+  text-decoration: none;
+}
+
+.loadBtnDiv {
+  margin-top: 5px;
+}
